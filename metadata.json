@@ -1,0 +1,5 @@
+{
+  "name": "CareerBoard",
+  "description": "An AI-powered platform that analyzes your resume, identifies skill gaps, and generates a personalized learning roadmap to help you land your dream software job.",
+  "requestFramePermissions": []
+}
